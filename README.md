@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋, I'm Hassan Gillani, Full Stack Developer 10+ Years of Experience
 
-<!--
-**HassanGilani11/HassanGilani11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate Full Stack Developer from Australia
 
-Here are some ideas to get you started:
+🔗 Explore my freelance experiences on Upwork: (https://www.upwork.com/freelancers/~017a02175c43e43030)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Ask me about: WordPress, Woocommerce, Shopify, Liquid, HTML, CSS, Javascript, jQuery, Figma, Adobe Illustrator
+
+📫 How to reach me: hassan.gilani@vrtechsol.com
+
+Connect with me:
+LinkedIn Profile WhatsApp
+
+Languages and Tools:
+PHP, Liquid, HTML5, CSS3, Javascript, jQuery, AWS, Azure, Figma, Framer, Google Cloud, Git, MySQL
