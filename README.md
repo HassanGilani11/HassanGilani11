@@ -1,4 +1,4 @@
-Hi 👋, I'm Hassan Gillani, Full Stack Developer 10+ Years of Experience
+**Hi 👋, I'm Hassan Gillani, Full Stack Developer 10+ Years of Experience**
 
 A passionate Full Stack Developer from Australia
 
