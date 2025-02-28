@@ -4,9 +4,7 @@
 
 💬 Ask me about: WordPress, Woocommerce, Shopify, Liquid, HTML, CSS, Javascript, jQuery, Figma, Adobe Illustrator
 
-📫 How to reach me: hassan.gilani@vrtechsol.com
-
-Connect with me:hassangillani12@gmail.com
+📫 How to reach me: hassangillani12@gmail.com
 LinkedIn Profile: https://www.linkedin.com/in/hassan-gilani12/
 
 Languages and Tools:
