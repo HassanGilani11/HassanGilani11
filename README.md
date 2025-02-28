@@ -1,6 +1,4 @@
-## Hi 👋, I'm Hassan Gillani, Full Stack Developer 10+ Years of Experience**
-
-A passionate Full Stack Developer from Australia
+## Hi 👋, I'm Hassan Gilani, CMS Developer 6+ Years of Experience**
 
 🔗 Explore my freelance experiences on Upwork: (https://www.upwork.com/freelancers/~017a02175c43e43030)
 
@@ -8,8 +6,8 @@ A passionate Full Stack Developer from Australia
 
 📫 How to reach me: hassan.gilani@vrtechsol.com
 
-Connect with me:
-LinkedIn Profile WhatsApp
+Connect with me:hassangillani12@gmail.com
+LinkedIn Profile: https://www.linkedin.com/in/hassan-gilani12/
 
 Languages and Tools:
 PHP, Liquid, HTML5, CSS3, Javascript, jQuery, AWS, Azure, Figma, Framer, Google Cloud, Git, MySQL
