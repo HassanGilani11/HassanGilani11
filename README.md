@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | CMS Specialist | Tech Enthusiast
 
-Welcome to my GitHub profile! With over 7 years of experience as a CMS Developer, I specialize in building robust, scalable web applications and platforms. I thrive in dynamic environments and love turning ideas into reality — whether for startups, established businesses, or freelance clients worldwide.
+Welcome to my GitHub profile! With over 7 years of experience as a Full Stack Developer, I specialize in building robust, scalable web applications and platforms. I thrive in dynamic environments and love turning ideas into reality — whether for startups, established businesses, or freelance clients worldwide.
 
 ## 🛠️ Skills & Technologies
 - Frontend: ReactJS, Liquid Language, HTML5, CSS3, Javascript, jQuery
