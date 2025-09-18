@@ -1,11 +1,47 @@
-## Hi 👋, I'm Hassan Gilani, CMS Developer 6+ Years of Experience**
+# 👋 Hi, I'm Hassan Gilani
 
-🔗 Explore my freelance experiences on Upwork: (https://www.upwork.com/freelancers/~017a02175c43e43030)
+### 🚀 Full Stack Developer | CMS Specialist | Tech Enthusiast
 
-💬 Ask me about: WordPress, Woocommerce, Shopify, Liquid, HTML, CSS, Javascript, jQuery, Figma, Adobe Illustrator
+Welcome to my GitHub profile! With over 7 years of experience as a CMS Developer, I specialize in building robust, scalable web applications and platforms. I thrive in dynamic environments and love turning ideas into reality — whether for startups, established businesses, or freelance clients worldwide.
 
-📫 How to reach me: hassangillani12@gmail.com
-LinkedIn Profile: https://www.linkedin.com/in/hassan-gilani12/
+## 🛠️ Skills & Technologies
+- Frontend: ReactJS, Liquid Language, HTML5, CSS3, Javascript, jQuery
+- Backend: NodeJS, PHP, MySQL
+- Cloud & DevOps: AWS, Azure, Google Cloud, DevOps
+- Design: Figma, Framer, Adobe Illustrator
+- Platforms: WordPress, WooCommerce, Shopify, GitHub, GitLab, Bitbucket
 
-Languages and Tools:
-PHP, Liquid, HTML5, CSS3, Javascript, jQuery, AWS, Azure, Figma, Framer, Google Cloud, Git, MySQL
+## 🏆 Certifications
+- PHP Certified
+- Liquid Certified
+- ReactJS Certified
+
+## 📂 Featured Projects
+- [CMS](https://github.com/HassanGilani11/cms) – Flexible content management system built for modern needs.
+- [NextJS AI Chatbot](https://github.com/HassanGilani11/nextjs-ai-chatbot) – Conversational AI chatbot using Next.js.
+- [Resilance](https://github.com/HassanGilani11/resilance) – Tools and strategies for building resilient systems.
+- [Eviryte](https://github.com/HassanGilani11/eviryte) – Next-gen productivity and collaboration platform.
+- [Medium-Marketing](https://github.com/HassanGilani11/Medium-Marketing) – Marketing automation and analytics for Medium writers.
+
+## 💡 About Me
+Experienced CMS Developer with a passion for creating seamless digital experiences. I’ve helped clients grow their online presence through custom solutions on WordPress, Shopify, and more. Always striving to learn, adapt, and deliver excellence.
+
+- Freelance Experience:  
+  Explore my freelance journey on Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~017a02175c43e43030)
+
+- Ask Me About:
+  WordPress, WooCommerce, Shopify, Liquid, HTML, CSS, Javascript, jQuery, Figma, Adobe Illustrator
+
+## 🌐 Socials
+- LinkedIn: [Hassan Gilani](https://www.linkedin.com/in/hassan-gilani12/)
+- Email: hassangillani12@gmail.com
+- Upwork: [Freelance Portfolio](https://www.upwork.com/freelancers/~017a02175c43e43030)
+
+## 🏷️ Interests
+- Tech innovations
+- Web design & development
+- Cloud computing
+- UI/UX design
+
+## ✨ Fun Fact or Quote
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
