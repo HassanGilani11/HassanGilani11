@@ -2,10 +2,10 @@
 
 ### 🚀 Full Stack Developer | CMS Specialist | Tech Enthusiast
 
-Welcome to my GitHub profile! With over 7 years of experience as a Full Stack Developer, I specialize in building robust, scalable web applications and platforms. I thrive in dynamic environments and love turning ideas into reality — whether for startups, established businesses, or freelance clients worldwide.
+Welcome to my GitHub profile! With over 7+ years of experience as a Full Stack Developer, I specialize in building robust, scalable web applications and platforms. I thrive in dynamic environments and love turning ideas into reality — whether for startups, established businesses, or freelance clients worldwide.
 
 ## 🛠️ Skills & Technologies
-- Frontend: ReactJS, Liquid Language, HTML5, CSS3, Javascript, jQuery
+- Frontend: ReactJS, Liquid Language, HTML5, CSS3, JavaScript, jQuery
 - Backend: NodeJS, PHP, MySQL
 - Cloud & DevOps: AWS, Azure, Google Cloud, DevOps
 - Design: Figma, Framer, Adobe Illustrator
@@ -30,7 +30,7 @@ Experienced CMS Developer with a passion for creating seamless digital experienc
   Explore my freelance journey on Upwork: [Upwork Profile](https://www.upwork.com/freelancers/~017a02175c43e43030)
 
 - Ask Me About:
-  WordPress, WooCommerce, Shopify, Liquid, HTML, CSS, Javascript, jQuery, Figma, Adobe Illustrator
+  WordPress, WooCommerce, Shopify, Liquid, HTML, CSS, JavaScript, jQuery, Figma, Adobe Illustrator
 
 ## 🌐 Socials
 - LinkedIn: [Hassan Gilani](https://www.linkedin.com/in/hassan-gilani12/)
