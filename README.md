@@ -18,8 +18,8 @@ Welcome to my GitHub profile! With over 7+ years of experience as a Full Stack D
 
 ## 📂 Featured Projects
 - [CMS](https://github.com/HassanGilani11/cms) – Flexible content management system built for modern needs.
-- [Modern eCommerce Next.js] (https://github.com/HassanGilani11/ecommerce-nextjs16) - A premium, full-stack eCommerce application built with Next.js 16 (App Router), Supabase, and Stripe..
-- [Blog CMS] (https://github.com/HassanGilani11/blogcms-nextjs) - A Modern Next.js 16 & Supabase Publication Platform
+- [Modern eCommerce NextJS](https://github.com/HassanGilani11/ecommerce-nextjs16) - A premium, full-stack eCommerce application built with Next.js 16 (App Router), Supabase, and Stripe..
+- [Blog CMS](https://github.com/HassanGilani11/blogcms-nextjs) - A Modern Next.js 16 & Supabase Publication Platform
 - [NextJS AI Chatbot](https://github.com/HassanGilani11/nextjs-ai-chatbot) – Conversational AI chatbot using Next.js.
 - [Resilance](https://github.com/HassanGilani11/resilance) – Tools and strategies for building resilient systems.
 - [Eviryte](https://github.com/HassanGilani11/eviryte) – Next-gen productivity and collaboration platform.
