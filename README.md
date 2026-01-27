@@ -19,7 +19,7 @@ Node.js, PHP, MySQL, MongoDB, MERN Stack
 **Cloud & DevOps:** 
 AWS, Azure, Google Cloud, DevOps  
 
-**AI & Automation: **
+**AI & Automation:**
 AI Agents, AI Workflows, GPT/LLM Integration  
 
 **Design & UI/UX:**
