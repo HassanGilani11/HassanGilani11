@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://img.shields.io/badge/Full_Stack_Developer-ReactJS%20%7C%20NextJS%20%7C%20NodeJS-blue) ![GitHub followers](https://img.shields.io/github/followers/HassanGilani11?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-HassanGilani-blue?logo=linkedin)
 
-### 🚀 Full Stack Developer | CMS & AI Automation Specialist
+### 🚀 Full Stack Developer (MERN Stack, JavaScript) | CMS (WordPress, Shopify, etc.) & AI Automation Specialist
 
 Welcome to my GitHub! I’m passionate about building robust, scalable web applications and AI-powered solutions. With 10+ years of experience, I help startups, enterprises, and freelance clients turn ideas into reality.
 
