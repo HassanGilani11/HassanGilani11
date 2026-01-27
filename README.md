@@ -10,19 +10,19 @@ Welcome to my GitHub! I’m passionate about building robust, scalable web appli
 
 ## 🛠️ Skills & Technologies
 
-Frontend:
+**Frontend**:
 ReactJS, Next.js, Liquid, HTML5, CSS3, JavaScript, jQuery  
 
-Backend: 
+**Backend**: 
 Node.js, PHP, MySQL, MongoDB, MERN Stack  
 
-Cloud & DevOps: 
+**Cloud & DevOps:** 
 AWS, Azure, Google Cloud, DevOps  
 
-AI & Automation: 
+**AI & Automation: **
 AI Agents, AI Workflows, GPT/LLM Integration  
 
-Design & UI/UX:
+**Design & UI/UX:**
 Figma, Framer, Adobe Illustrator  
 
 **Platforms & CMS:**  
