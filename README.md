@@ -62,7 +62,7 @@ Experienced CMS Developer & AI Automation Enthusiast. I specialize in creating *
 
 ## 🌐 Connect with Me
 - LinkedIn: [Hassan Gilani](https://www.linkedin.com/in/hassan-gilani12/)  
-- Email: hassangillani12@gmail.com  
+- Email: hassan.gillani@syntexdev.com
 - Upwork: [Freelance Portfolio](https://www.upwork.com/freelancers/~017a02175c43e43030)  
 
 ---
